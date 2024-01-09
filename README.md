@@ -51,8 +51,8 @@ Cardiac Arrythmia Multi Class Classification:
 
 Algorthmic Analysis of Web Crawlers- Data Structures:
 -- Here, we used to collect the words from every websites.
---Starting from the root URL, the crawler will fetch web pages and find other URLs to visit, called seeds.
---All seeds found on this project will be added on list of URLs visited.
+-- Starting from the root URL, the crawler will fetch web pages and find other URLs to visit, called seeds.
+-- All seeds found on this project will be added on list of URLs visited.
 -- Web Crawling allows us to visit pages present on root page, with possibility of excluding some pages. 
 -- Here, we have implemented 5 algorithms namely, BFS, DFS, PageRank Algorithm, Online Page Importance Calculation Algorithm and Focused Crawling Algorithm.
 
