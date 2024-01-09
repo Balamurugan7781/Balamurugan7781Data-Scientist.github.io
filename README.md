@@ -57,6 +57,6 @@ Algorthmic Analysis of Web Crawlers- Data Structures:
 -- Here, we have implemented 5 algorithms namely, BFS, DFS, PageRank Algorithm, Online Page Importance Calculation Algorithm and Focused Crawling Algorithm.
 
 COVID-19 Vaccination Visualization using Tableau:
--- Data Visualization of COVID Vaccination all over the world with the help of Tableau
+-- Data Visualization of COVID Vaccination all over the world with the help of Tableau.
 
 
