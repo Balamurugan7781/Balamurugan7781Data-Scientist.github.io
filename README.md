@@ -1,4 +1,4 @@
-# Graduate Data Scientist
+# Upcoming Graduate Data Scientist
 
 ### Education
 MSc Data Science and Artificial Intelligence, University of Liverpool, Sep 2023- Sep 2024
